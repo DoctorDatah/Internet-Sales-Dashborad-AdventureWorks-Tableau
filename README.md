@@ -11,3 +11,9 @@
 
 <image src="./Presentation/Presentation.pdf"/>
 
+<object data="./Presentation/Presentation.pdf" type="application/pdf" width="100%"> 
+</object>
+
+
+<object data="/Presentation/Presentation.pdf" type="application/pdf" width="100%"> 
+</object>
