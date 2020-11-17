@@ -18,4 +18,4 @@
 <object data="/Presentation/Presentation.pdf" type="application/pdf" width="100%"> 
 </object>
 
-[embed]./Presentation/Presentation.pdf[/embed]
+[embed]https://github.com/DoctorDatah/Internet-Sales-Dashborad-AdwantureWorks-Tableau/blob/main/Presentation/Presentation.pdf[/embed]
