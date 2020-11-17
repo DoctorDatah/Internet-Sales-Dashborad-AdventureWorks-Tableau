@@ -9,7 +9,7 @@
 </object>
  
 
-<image src="./Presentation/Presentation.pdf"/>
+<image src=""/>
 
 <object data="./Presentation/Presentation.pdf" type="application/pdf" width="100%"> 
 </object>
@@ -17,3 +17,5 @@
 
 <object data="/Presentation/Presentation.pdf" type="application/pdf" width="100%"> 
 </object>
+
+[embed]./Presentation/Presentation.pdf[/embed]
